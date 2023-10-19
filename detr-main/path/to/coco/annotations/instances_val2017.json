@@ -3,7 +3,7 @@
     "images": [
         {
             "id": 0,
-            "filename": "writer1_1.jpg",
+            "file_name": "writer1_1.jpg",
             "coco_url": "",
             "height": 2500,
             "width": 2500,
