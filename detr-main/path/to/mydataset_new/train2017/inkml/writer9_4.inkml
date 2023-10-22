@@ -1,0 +1,203 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="UI">2010_IRCCyN_FC_writer9_4</annotation>
+<annotation type="copyright">LUNAM/IRCCyN</annotation>
+<annotation type="writer">writer9</annotation>
+<annotation type="truth">"4"</annotation>
+<annotationXML type="truth" encoding="Content-FlowchartML">
+	<flowchart xmlns='LUNAM/IRCCyN/FlowchartML'>
+		<node xml:id="connection_1" type="connection"></node>
+		<node xml:id="process_1" type="process"></node>
+		<node xml:id="decision_1" type="decision"></node>
+		<node xml:id="process_2" type="process"></node>
+		<node xml:id="process_3" type="process"></node>
+		<node xml:id="connection_2" type="connection"></node>
+		<arrow xml:id="_1" source="connection_1" target="process_1">
+		</arrow>
+		<arrow xml:id="_2" source="process_1" target="decision_1">
+		</arrow>
+		<arrow xml:id="_3" source="decision_1" target="process_2">
+		</arrow>
+		<arrow xml:id="_4" source="process_2" target="process_1">
+		</arrow>
+		<arrow xml:id="_5" source="decision_1" target="process_3">
+		</arrow>
+		<arrow xml:id="_6" source="process_3" target="connection_2">
+		</arrow>
+	</flowchart>
+</annotationXML>
+<trace id="0">
+503.959 2.26244, 503.959 2.26244, 484.729 0, 460.973 9.04977, 444.005 24.8869, 429.299 47.5113, 422.511 92.7602, 434.955 115.385, 459.842 135.747, 490.385 144.796, 526.584 138.009, 555.995 118.778, 567.308 102.941, 572.964 87.1041, 557.127 20.362, 542.421 5.65611, 517.534 7.91855
+</trace>
+<trace id="1">
+494.91 141.403, 494.91 141.403, 494.91 162.896, 494.91 178.733, 496.041 207.014, 497.172 243.213, 496.041 280.543, 494.91 307.692, 493.778 331.448, 494.91 342.76, 494.91 345.023, 492.647 341.629
+</trace>
+<trace id="2">
+457.579 292.986, 457.579 292.986, 473.416 312.217, 486.991 338.235, 499.434 343.891, 516.403 331.448, 541.29 300.905, 561.652 262.443
+</trace>
+<trace id="3">
+104.638 351.81, 104.638 351.81, 113.688 365.385, 112.557 374.434, 111.425 393.665, 109.163 415.158, 105.769 443.439, 102.376 478.507, 98.9819 512.443, 97.8507 549.774, 97.8507 580.317, 98.9819 606.335, 100.113 621.041, 102.376 626.697, 103.507 592.76
+</trace>
+<trace id="4">
+158.937 350.679, 158.937 350.679, 188.348 360.86, 270.928 369.91, 404.412 363.122, 576.357 363.122, 677.036 355.204, 854.638 350.679, 850.113 354.072, 846.719 383.484, 826.357 605.204
+</trace>
+<trace id="5">
+143.1 622.172, 143.1 622.172, 164.593 626.697, 251.697 625.566, 342.195 632.353, 511.878 635.747, 613.688 627.828, 709.842 614.253, 767.534 616.516, 817.308 609.729
+</trace>
+<trace id="6">
+491.516 625.566, 491.516 625.566, 482.466 794.118, 484.729 807.692, 486.991 813.348, 483.597 807.692
+</trace>
+<trace id="7">
+444.005 755.656, 444.005 755.656, 445.136 752.262, 458.71 768.1, 490.385 817.873, 498.303 820.136, 543.552 729.638
+</trace>
+<trace id="8">
+492.647 820.136, 492.647 820.136, 488.122 817.873, 476.81 822.398, 372.738 918.552, 223.416 1042.99
+</trace>
+<trace id="9">
+199.661 1030.54, 199.661 1030.54, 253.959 1054.3, 355.769 1113.12, 450.792 1157.24, 503.959 1174.21
+</trace>
+<trace id="10">
+511.878 828.054, 511.878 828.054, 501.697 819.005, 510.747 823.529, 653.281 912.896, 747.172 963.801
+</trace>
+<trace id="11">
+739.253 973.982, 739.253 973.982, 698.529 1004.52, 618.213 1087.1, 531.109 1157.24, 503.959 1177.6, 508.484 1170.81
+</trace>
+<trace id="12">
+513.009 1165.16, 513.009 1165.16, 514.14 1169.68
+</trace>
+<trace id="13">
+514.14 1178.73, 514.14 1178.73, 514.14 1346.15, 513.009 1364.25, 500.566 1401.58
+</trace>
+<trace id="14">
+485.86 1346.15, 485.86 1346.15, 486.991 1358.6, 505.091 1404.98, 515.271 1411.76, 537.896 1393.67, 585.407 1315.61
+</trace>
+<trace id="15">
+119.344 1390.27, 119.344 1390.27, 119.344 1436.65, 120.475 1477.38, 120.475 1515.84, 122.738 1557.69, 122.738 1598.42, 121.606 1632.35, 121.606 1651.58, 121.606 1664.03, 121.606 1668.55, 127.262 1615.38
+</trace>
+<trace id="16">
+144.231 1412.9, 144.231 1412.9, 136.312 1418.55, 154.412 1425.34, 206.448 1428.73, 401.018 1417.42, 574.095 1399.32, 629.525 1401.58, 725.679 1392.53, 878.394 1389.14, 881.787 1459.28, 878.394 1557.69, 868.213 1636.88
+</trace>
+<trace id="17">
+141.968 1675.34, 141.968 1675.34, 141.968 1678.73, 162.33 1684.39, 201.923 1690.05, 362.557 1688.91, 420.249 1685.52, 479.072 1676.47, 727.941 1675.34, 861.425 1662.9
+</trace>
+<trace id="18">
+535.633 1675.34, 535.633 1675.34, 537.896 1736.43, 536.765 1774.89, 535.633 1808.82, 534.502 1832.58, 533.371 1850.68, 533.371 1861.99, 533.371 1867.65, 532.24 1861.99
+</trace>
+<trace id="19">
+498.303 1806.56, 498.303 1806.56, 503.959 1824.66, 522.059 1854.07, 529.977 1864.25, 542.421 1865.38, 611.425 1773.76, 630.656 1754.53
+</trace>
+<trace id="20">
+557.127 1888.01, 557.127 1888.01, 537.896 1878.96, 528.846 1881.22, 511.878 1903.85, 502.828 1953.62, 505.091 1971.72, 525.453 1996.61, 542.421 2000, 567.308 1992.08, 606.9 1955.88, 617.081 1931, 618.213 1909.5, 592.195 1886.88, 576.357 1883.48, 551.471 1888.01
+</trace>
+<trace id="21">
+750.566 943.439, 750.566 943.439, 751.697 949.095, 796.946 953.62, 939.48 945.701, 1002.83 952.489, 1151.02 953.62, 1167.99 947.964
+</trace>
+<trace id="22">
+1147.62 895.928, 1147.62 895.928, 1194 933.258, 1206.45 949.095, 1196.27 964.932, 1134.05 1013.57
+</trace>
+<trace id="23">
+1240.38 858.597, 1240.38 858.597, 1240.38 890.272, 1240.38 908.371, 1240.38 930.996, 1239.25 960.407, 1235.86 994.344, 1234.73 1028.28, 1234.73 1055.43, 1234.73 1083.71, 1234.73 1108.6, 1235.86 1125.57, 1235.86 1135.75, 1235.86 1140.27, 1235.86 1142.53, 1235.86 1141.4
+</trace>
+<trace id="24">
+1222.29 1124.43, 1222.29 1124.43, 1251.7 1128.96, 1341.06 1130.09, 1625 1128.96, 1750.57 1141.4, 1801.47 1141.4, 1826.36 1132.35, 1827.49 1123.3
+</trace>
+<trace id="25">
+1260.75 868.778, 1260.75 868.778, 1240.38 873.303, 1475.68 893.665, 1735.86 888.009, 1847.85 893.665, 1902.15 888.009
+</trace>
+<trace id="26">
+1873.87 894.796, 1873.87 894.796, 1882.92 907.24, 1882.92 940.045, 1880.66 966.063, 1878.39 997.738, 1875 1028.28, 1872.74 1056.56, 1872.74 1078.05, 1872.74 1099.55, 1873.87 1113.12, 1876.13 1118.78, 1877.26 1122.17, 1877.26 1123.3
+</trace>
+<trace id="27">
+1533.37 476.244, 1533.37 476.244, 1528.85 488.688, 1531.11 498.869, 1531.11 510.181, 1532.24 528.281, 1532.24 549.774, 1531.11 575.792, 1531.11 598.416, 1534.5 623.303, 1533.37 644.796, 1533.37 666.29, 1533.37 692.308, 1534.5 714.932, 1535.63 737.557, 1535.63 761.312, 1535.63 785.068, 1536.76 802.036, 1539.03 819.005, 1540.16 841.629, 1541.29 851.81, 1541.29 857.466, 1541.29 858.597, 1541.29 859.729
+</trace>
+<trace id="28">
+869.344 466.063, 869.344 466.063, 846.719 468.326, 869.344 476.244, 996.041 498.869, 1136.31 500, 1215.5 506.787, 1333.14 505.656, 1497.17 485.294, 1532.24 485.294
+</trace>
+<trace id="29">
+925.905 433.258, 925.905 433.258, 870.475 479.638, 855.769 484.163, 913.462 536.199
+</trace>
+<traceGroup xml:id="30">
+	<annotation type="truth">From ITF</annotation>
+	<traceGroup xml:id="31">
+		<annotation type="truth">connection</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="connection_1"/>
+	</traceGroup>
+	<traceGroup xml:id="32">
+		<annotation type="truth">arrow</annotation>
+		<traceView traceDataRef="1"/>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="_1"/>
+	</traceGroup>
+	<traceGroup xml:id="33">
+		<annotation type="truth">process</annotation>
+		<traceView traceDataRef="3"/>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="process_1"/>
+	</traceGroup>
+	<traceGroup xml:id="34">
+		<annotation type="truth">arrow</annotation>
+		<traceView traceDataRef="6"/>
+		<traceView traceDataRef="7"/>
+		<annotationXML href="_2"/>
+	</traceGroup>
+	<traceGroup xml:id="35">
+		<annotation type="truth">decision</annotation>
+		<traceView traceDataRef="8"/>
+		<traceView traceDataRef="9"/>
+		<traceView traceDataRef="10"/>
+		<traceView traceDataRef="11"/>
+		<traceView traceDataRef="12"/>
+		<annotationXML href="decision_1"/>
+	</traceGroup>
+	<traceGroup xml:id="36">
+		<annotation type="truth">arrow</annotation>
+		<traceView traceDataRef="13"/>
+		<traceView traceDataRef="14"/>
+		<annotationXML href="_5"/>
+	</traceGroup>
+	<traceGroup xml:id="37">
+		<annotation type="truth">process</annotation>
+		<traceView traceDataRef="15"/>
+		<traceView traceDataRef="16"/>
+		<traceView traceDataRef="17"/>
+		<annotationXML href="process_3"/>
+	</traceGroup>
+	<traceGroup xml:id="38">
+		<annotation type="truth">arrow</annotation>
+		<traceView traceDataRef="18"/>
+		<traceView traceDataRef="19"/>
+		<annotationXML href="_6"/>
+	</traceGroup>
+	<traceGroup xml:id="39">
+		<annotation type="truth">connection</annotation>
+		<traceView traceDataRef="20"/>
+		<annotationXML href="connection_2"/>
+	</traceGroup>
+	<traceGroup xml:id="40">
+		<annotation type="truth">arrow</annotation>
+		<traceView traceDataRef="21"/>
+		<traceView traceDataRef="22"/>
+		<annotationXML href="_3"/>
+	</traceGroup>
+	<traceGroup xml:id="41">
+		<annotation type="truth">process</annotation>
+		<traceView traceDataRef="23"/>
+		<traceView traceDataRef="24"/>
+		<traceView traceDataRef="25"/>
+		<traceView traceDataRef="26"/>
+		<annotationXML href="process_2"/>
+	</traceGroup>
+	<traceGroup xml:id="42">
+		<annotation type="truth">arrow</annotation>
+		<traceView traceDataRef="27"/>
+		<traceView traceDataRef="28"/>
+		<traceView traceDataRef="29"/>
+		<annotationXML href="_4"/>
+	</traceGroup>
+</traceGroup>
+</ink>
