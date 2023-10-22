@@ -183,7 +183,7 @@ def plot_results(pil_img, prob, boxes):
 #def checkImageResult(samples,model):
 def checkImgResult(model,device):
     #url = 'http://images.cocodataset.org/val2017/000000039769.jpg'
-    im = Image.open('./path/to/coco/val2017/writer2_1b.jpg')
+    im = Image.open('./path/to/mydataset_new/val2017/writer2_1b.jpg')
     # mean-std normalize the input image (batch-size: 1)
     img = transform(im).unsqueeze(0)
 
